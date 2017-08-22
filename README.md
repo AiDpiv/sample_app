@@ -4,5 +4,4 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-finish at page 161 chapter 5
- 12123
+finish at page 198
