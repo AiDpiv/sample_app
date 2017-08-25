@@ -5,3 +5,6 @@ Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
 finish at page 240
+
+fail with test on page 242
+on file test/integration/users_signup_test.rb
