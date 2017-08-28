@@ -6,5 +6,6 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 finish at page 289
 
-fail with test on page 242
+fail with test on page 296
 on file test/integration/users_signup_test.rb
+proplem with user_login_test.rb
